@@ -11,10 +11,13 @@ Step1: Create a list that summarizes my strengths and weaknesses in coding, incl
 
 ![](list3.JPG)
 
-### Submission:
-* documented problem-solving via a series of online practice problems offered through freeCodeCamp and HackerRank
+Step2: Focus on an area of improvement: Javascript logic. Document problem-solving via a series of online practice problems offered through freeCodeCamp and HackerRank
 
 ![](hacker-rank.png)  ![](free-code-camp.png)
+
+(JUST SIGNED UP TO HACKER RANK)
+
+###  Questions to Consider:
 
 * What do I want to prioritize to prep for the coming weeks, as well as after Epicodus?
 

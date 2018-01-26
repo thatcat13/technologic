@@ -21,6 +21,10 @@ problems solved via freeCodeCamp as of 11:59am:
 
 ![](progress1.jpg)
 
+stuck on this problem for over an hour (with only one last objective):
+
+![](stuck.jpg)
+
 ###  Questions to Consider:
 
 * What do I want to prioritize to prep for the coming weeks, as well as after Epicodus?

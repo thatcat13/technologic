@@ -17,6 +17,10 @@ Step2: Focus on an area of improvement: Javascript logic. Document problem-solvi
 
 (JUST SIGNED UP TO HACKER RANK)
 
+problems solves via freeCodeCamp as of 11:59am:
+
+![](progress1.jpg)
+
 ###  Questions to Consider:
 
 * What do I want to prioritize to prep for the coming weeks, as well as after Epicodus?

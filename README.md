@@ -29,6 +29,8 @@ I want to work through Javascript-based problems to improve my understanding of 
 
 My next priority would be to strengthen my design skills.  There are a few Epicodus-based projects I've created that I feel good about but I want to work toward making sites that are stunning to look at. I tend to like clean, simple formats. This is where my focus would start, utilizing Bootstrap, exploring Materialize, getting more comfortable with Flexbox and CSS Grid.  That said, I'd also want to improve my non-framework design skills since Flexbox/Grid support is still far from universal.
 
+UPDATE: just had a discussion at lunch with a fellow Epicodus student (Kyle, Java track). He re-iterated what I've heard before regarding the value of learning AWS. At lunch I signed up with acloud.guru to explore AWS tutorials.
+
 
 
 

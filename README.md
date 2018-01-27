@@ -28,6 +28,8 @@ Stuck on this problem for over an hour (with only one last objective):
 Tried HackerRank problems:
 
 ![](hackerRank.jpg)
+
+
 ###  Questions to Consider:
 
 * What do I want to prioritize to prep for the coming weeks, as well as after Epicodus?
